@@ -502,15 +502,6 @@ Excel is used as the initial data preparation and exploration layer.
 - Age Group creation
 - KPI calculations
 
-### Example Formula
-
-```excel
-=SUMIF(B:B,"North",D:D)
-```
-
-```excel
-=SUMIFS(D:D,B:B,"North",C:C,"Laptop")
-```
 
 ---
 
@@ -518,33 +509,33 @@ Excel is used as the initial data preparation and exploration layer.
 
 ```text
                 ┌─────────────────┐
-                │   HR Dataset    │
+                │   HR Dataset      |
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │      Excel      │
-                │ Cleaning & EDA  │
+                │      Excel        │
+                │ Cleaning & EDA    │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │      MySQL      │
-                │ SQL & Database  │
+                │      MySQL        │
+                │ SQL & Database    │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │     Python      │
-                │ Pandas & EDA    │
+                │     Python        │
+                │ Pandas & EDA      │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │    Power BI     │
-                │ Data Modeling   │
-                │ DAX & Dashboard │
+                │    Power BI       │
+                │ Data Modeling     │
+                │ DAX & Dashboard   │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │ HR Insights &   │
-                │ Decision Making │
+                │ HR Insights &     │
+                │ Decision Making   │
                 └─────────────────┘
 ```
 
