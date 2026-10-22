@@ -3,7 +3,11 @@
 > An end-to-end HR Data Analytics project using **Excel, MySQL, Python, and Power BI** to analyze workforce data and generate meaningful HR insights through interactive dashboards.
 
 ---
+## Dashboard Preview
 
+![HR Workforce Analytics Dashboard](HR_WORKFORCE_ANALYTICS_DASHBOARD.jpeg)
+
+---
 ## 🚀 Project Overview
 
 **HR Workforce Analytics** is a data analytics project designed to transform raw HR data into meaningful business insights.
