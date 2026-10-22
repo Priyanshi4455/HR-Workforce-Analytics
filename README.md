@@ -5,7 +5,7 @@
 ---
 ## Dashboard Preview
 
-![HR Workforce Analytics Dashboard](HR_WORKFORCE_ANALYTICS_DASHBOARD.jpeg)
+![HR Workforce Analytics Dashboard](Images/Final_dashboard.png)
 
 ---
 ## 🚀 Project Overview
@@ -412,35 +412,27 @@ This project attempts to answer questions such as:
 
 ---
 
-# 📂 Project Structure
+
+## 📁 Repository Structure
 
 ```text
 HR-Workforce-Analytics/
 │
-├── 📁 Dataset/
+├── 📁Dataset/
 │   └── HR_Workforce_Analytics_Dataset.xlsx
 │
-├── 📁 Excel/
-│   └── HR_Workforce_Analysis.xlsx
+├── 📁Excel/
+│   ├── Employee_Demographics_Analysis.xlsx
+│   ├── HR_Workforce_Analytics_Final.xlsx
+│   ├── Performance_and_Department_Analysis.xlsx
+│   └── Recruitment_Analysis.xlsx
 │
-├── 📁 SQL/
-│   ├── database.sql
-│   ├── tables.sql
-│   └── analysis_queries.sql
-│
-├── 📁 Python/
-│   ├── data_cleaning.py
-│   ├── eda.py
-│   └── visualizations.py
-│
-├── 📁 PowerBI/
-│   └── HR_Workforce_Analytics.pbix
-│
-├── 📁 Screenshots/
-│   └── HR_WORKFORCE_ANALYTICS_DASHBOARD.jpeg
+├── 📁Images/
+│   └── Final_dashboard.png
 │
 └── README.md
 ```
+
 
 ---
 
