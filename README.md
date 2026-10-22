@@ -1,4 +1,4 @@
-# 📊 HR Workforce Analytics & Interactive Dashboard System
+# 📊 HR Workforce Analytics
 
 > An end-to-end HR Data Analytics project using **Excel, MySQL, Python, and Power BI** to analyze workforce data and generate meaningful HR insights through interactive dashboards.
 
@@ -24,24 +24,6 @@ The project covers major HR areas such as:
 - 🏢 Department-wise Analysis
 - 📊 Interactive HR Dashboard
 
-The project follows a complete analytics workflow:
-
-```text
-Raw HR Data
-     ↓
-Excel Data Cleaning & Preparation
-     ↓
-MySQL Database & SQL Analysis
-     ↓
-Python / Pandas Analysis
-     ↓
-Power BI Data Modeling
-     ↓
-Interactive HR Dashboard
-     ↓
-Business Insights
-```
-
 ---
 
 ## 🎯 Project Objectives
@@ -61,72 +43,21 @@ The main objectives of this project are to:
 
 ---
 
-## 📁 Dataset
+## 📂Dataset
 
-The project dataset contains synthetic HR records created specifically for academic and analytical purposes.
+The accompanying Excel workbook contains these worksheets:
 
-### Dataset Statistics
+| Worksheet | Contents |
+|---|---|
+| `Employee_Master` | Employee details, department, position, salary, hire date, service, recruitment source, performance, attendance, leave, status, and location |
+| `Attendance` | Monthly working days, present days, absent days, late days, and attendance percentage |
+| `Leave` | Leave date, leave type, leave days, and request status |
+| `Recruitment_Summary` | Recruitment source, total hires, average performance, and average salary |
+| `README` | Dataset notes and recommended tools |
 
-| Dataset | Records |
-|---|---:|
-| Employee Master | 300 employees |
-| Attendance | 3,600 monthly records |
-| Leave | 640 records |
-| Recruitment Summary | Recruitment-source level summary |
+The workbook has **300 employee records** in `Employee_Master`, along with attendance, leave, and recruitment summary data.
 
-### Employee Master Fields
-
-```text
-Employee_ID
-Employee_Name
-Gender
-Age
-Department
-Position
-Salary
-Hire_Date
-Years_of_Service
-Recruitment_Source
-Performance_Score
-Attendance_Percentage
-Absence_Days
-Leave_Days
-Employment_Status
-Termination_Date
-Location
-```
-
-### Attendance Fields
-
-```text
-Employee_ID
-Month
-Working_Days
-Present_Days
-Absent_Days
-Late_Days
-Attendance_Percentage
-```
-
-### Leave Fields
-
-```text
-Leave_ID
-Employee_ID
-Leave_Date
-Leave_Type
-Leave_Days
-Status
-```
-
-### Recruitment Fields
-
-```text
-Recruitment_Source
-Total_Hires
-Average_Performance
-Average_Salary
-```
+---
 
 > **Note:** All employee names and records in the dataset are synthetic/fictitious and intended only for academic and project demonstration purposes.
 
@@ -134,33 +65,13 @@ Average_Salary
 
 ## 🛠️ Tools & Technologies
 
-### Microsoft Excel
-Used for:
+### - Microsoft Excel
 
-- Data inspection
-- Data cleaning
-- Data validation
-- Excel formulas
-- Lookup operations
-- Pivot Tables
-- Pivot Charts
-- Initial exploratory analysis
+### - MySQL
 
-### MySQL
-Used for:
+### - Python
 
-- Database creation
-- Table creation
-- Data storage
-- SQL queries
-- Aggregations
-- Joins
-- HR KPI calculations
-- Department-wise analysis
-
-### Python
-
-Libraries used / planned:
+- Libraries used:
 
 ```python
 Pandas
@@ -169,27 +80,7 @@ Matplotlib
 Seaborn
 ```
 
-Python is used for:
-
-- Data preprocessing
-- Exploratory Data Analysis
-- Statistical analysis
-- Data validation
-- Visualization
-- Generating additional analytical insights
-
-### Power BI
-
-Used for:
-
-- Data modeling
-- Relationships
-- DAX measures
-- KPI cards
-- Interactive charts
-- Slicers
-- Department-wise analysis
-- HR dashboard development
+### - Power BI
 
 ---
 
@@ -208,17 +99,6 @@ Analysis of:
 - Position distribution
 - Years of service
 
-### Example KPIs
-
-```text
-Total Employees
-Active Employees
-Average Age
-Average Years of Service
-Male/Female Distribution
-Employees by Department
-```
-
 ---
 
 ## 2. 🧑‍💼 Recruitment Analytics
@@ -233,16 +113,6 @@ Analyze how employees were recruited and compare recruitment channels.
 - Recruitment source contribution
 - Recruitment effectiveness
 
-### Example Recruitment Sources
-
-```text
-Campus Recruitment
-LinkedIn
-Indeed
-Employee Referral
-Company Website
-```
-
 ---
 
 ## 3. 🕒 Attendance Analytics
@@ -251,15 +121,13 @@ Analyze employee attendance and absence patterns.
 
 ### Key Metrics
 
-```text
-Average Attendance %
-Total Working Days
-Present Days
-Absent Days
-Late Days
-Department-wise Attendance
-Monthly Attendance Trends
-```
+- Average Attendance %
+- Total Working Days
+- Present Days
+- Absent Days
+- Late Days
+- Department-wise Attendance
+- Monthly Attendance Trends
 
 This can help identify departments or periods with attendance issues.
 
@@ -325,17 +193,15 @@ Analyze employee turnover and identify potential patterns.
 
 ### Key Metrics
 
-```text
-Total Employees
-Active Employees
-Exited Employees
-Attrition Rate
-Attrition by Department
-Attrition by Gender
-Attrition by Age Group
-Attrition by Recruitment Source
-Attrition by Years of Service
-```
+- Total Employees
+- Active Employees
+- Exited Employees
+- Attrition Rate
+- Attrition by Department
+- Attrition by Gender
+- Attrition by Age Group
+- Attrition by Recruitment Source
+- Attrition by Years of Service
 
 ### Attrition Rate
 
@@ -354,57 +220,55 @@ Compare departments using multiple HR metrics.
 
 ### Metrics
 
-```text
-Employee Count
-Average Salary
-Average Performance
-Average Attendance
-Leave Days
-Attrition
-Average Experience
-```
+- Employee Count
+- Average Salary
+- Average Performance
+- Average Attendance
+- Leave Days
+- Attrition
+- Average Experience
 
 This provides management with a department-level view of workforce health.
 
 ---
 
-# 📈 Power BI Dashboard
 
-The final Power BI dashboard is designed to provide an interactive view of the organization's workforce.
+## 📊 HR Workforce Analytics Dashboard
+
+The HR Workforce Analytics Dashboard provides an interactive overview of employee data, workforce distribution, attendance, leave, recruitment, and performance.
 
 ### Dashboard Components
 
-- KPI Cards
-- Employee Distribution
-- Department Analysis
-- Gender Analysis
-- Age Group Analysis
-- Salary Analysis
-- Attendance Analysis
-- Leave Analysis
-- Recruitment Analysis
-- Performance Analysis
-- Attrition Analysis
-- Location Analysis
+- Total Employees
+- Active Employees
+- Resigned Employees
+- Average Performance
+- Attrition Rate
+- Average Salary
+- Employee Count by Department
+- Employee Employment Status
+- Average Salary by Department
+- Employee Age Distribution
+- Monthly Attendance Trend
+- Leave Request Status Analysis
+- Employee Count by Recruitment Source
+- Leave Days by Type
+- Average Performance Score by Department
 
 ### Interactive Filters
 
-Users can filter the dashboard using dimensions such as:
+Users can filter the dashboard using the following slicers:
 
 ```text
 Department
-Gender
-Age Group
 Location
-Employment Status
-Recruitment Source
-Position
-Year
+Gender
+Month
+Leave Type
 ```
 
-The goal is to allow HR teams to explore the data dynamically rather than relying on static reports.
+The dashboard helps HR teams analyze employee distribution, compare departmental salaries and performance, monitor monthly attendance trends, review leave requests, and understand recruitment patterns and employee attrition.
 
----
 
 # 🗄️ MySQL Database
 
@@ -419,41 +283,11 @@ Leave
 Recruitment_Summary
 ```
 
-### Example SQL Analysis
-
-```sql
-SELECT Department,
-       COUNT(*) AS Employee_Count,
-       AVG(Salary) AS Average_Salary
-FROM Employee_Master
-GROUP BY Department
-ORDER BY Employee_Count DESC;
-```
-
-### Example Attendance Analysis
-
-```sql
-SELECT Department,
-       AVG(Attendance_Percentage) AS Average_Attendance
-FROM Employee_Master
-GROUP BY Department;
-```
-
-### Example Active Employee Analysis
-
-```sql
-SELECT COUNT(*) AS Active_Employees
-FROM Employee_Master
-WHERE Employment_Status = 'Active';
-```
-
 ---
 
 # 🐍 Python Analysis
 
 Python is used to perform additional data analysis and preprocessing.
-
-Example:
 
 ```python
 import pandas as pd
@@ -466,23 +300,6 @@ print(df.head())
 print(df.info())
 
 print(df.describe())
-```
-
-### Example Department Analysis
-
-```python
-department_analysis = (
-    df.groupby("Department")
-      .agg(
-          Employee_Count=("Employee_ID", "count"),
-          Average_Salary=("Salary", "mean"),
-          Average_Performance=("Performance_Score", "mean"),
-          Average_Attendance=("Attendance_Percentage", "mean")
-      )
-      .reset_index()
-)
-
-print(department_analysis)
 ```
 
 ---
@@ -513,33 +330,33 @@ Excel is used as the initial data preparation and exploration layer.
 
 ```text
                 ┌─────────────────┐
-                │   HR Dataset       |
+                │   HR Dataset    |
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │      Excel         │
-                │ Cleaning & EDA     │
+                │      Excel      │
+                │ Cleaning & EDA  │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │      MySQL         │
-                │ SQL & Database     │
+                │      MySQL      │
+                │ SQL & Database  │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │     Python         │
-                │ Pandas & EDA       │
+                │     Python      |
+                │ Pandas & EDA    │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │    Power BI        │
-                │ Data Modeling      │
-                │ DAX & Dashboard    │
+                │    Power BI     │
+                │ Data Modeling   │
+                │ DAX & Dashboard │
                 └────────┬────────┘
                          ↓
                 ┌─────────────────┐
-                │ HR Insights &      │
-                │ Decision Making    │
+                │ HR Insights &   │
+                │ Decision Making │
                 └─────────────────┘
 ```
 
@@ -620,7 +437,7 @@ HR-Workforce-Analytics/
 │   └── HR_Workforce_Analytics.pbix
 │
 ├── 📁 Screenshots/
-│   └── dashboard-preview.png
+│   └── HR_WORKFORCE_ANALYTICS_DASHBOARD.jpeg
 │
 └── README.md
 ```
@@ -718,7 +535,7 @@ The ultimate goal of this project is to demonstrate how multiple data analytics 
 
 ## 👨‍💻 Project
 
-**HR Workforce Analytics & Interactive Dashboard System**
+**HR Workforce Analytics**
 
 **Technologies:**  
 `Excel` • `MySQL` • `Python` • `Pandas` • `Power BI` • `DAX`
