@@ -413,26 +413,49 @@ This project attempts to answer questions such as:
 ---
 
 
+
 ## 📁 Repository Structure
 
 ```text
 HR-Workforce-Analytics/
 │
-├── 📁Dataset/
+├── Dataset/
 │   └── HR_Workforce_Analytics_Dataset.xlsx
 │
-├── 📁Excel/
+├── Excel/
 │   ├── Employee_Demographics_Analysis.xlsx
+│   ├── Employee_Salary_Analysis.xlsx
 │   ├── HR_Workforce_Analytics_Final.xlsx
 │   ├── Performance_and_Department_Analysis.xlsx
 │   └── Recruitment_Analysis.xlsx
 │
-├── 📁Images/
-│   └── Final_dashboard.png
+├── Images/
+│   ├── Employee_Demographics_Analysis_Dashboard.png
+│   ├── Final_dashboard.png
+│   ├── Performance_Analysis_Dashboard.png
+│   ├── Recruitment_Analysis_Dashboard.png
+│   └── Salary_Analysis_Dashboard.png
 │
 └── README.md
 ```
 
+## 📊 Dashboard Preview
+
+### Employee Demographics Dashboard
+
+![Employee Demographics Dashboard](Images/Employee_Demographics_Analysis_Dashboard.png)
+
+### Performance Analysis Dashboard
+
+![Performance Analysis Dashboard](Images/Performance_Analysis_Dashboard.png)
+
+### Recruitment Analysis Dashboard
+
+![Recruitment Analysis Dashboard](Images/Recruitment_Analysis_Dashboard.png)
+
+### Salary Analysis Dashboard
+
+![Salary Analysis Dashboard](Images/Salary_Analysis_Dashboard.png)
 
 ---
 
