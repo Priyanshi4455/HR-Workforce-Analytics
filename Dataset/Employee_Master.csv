@@ -1,0 +1,301 @@
+﻿Employee_ID,Employee_Name,Gender,Age,Department,Position,Salary,Hire_Date,Years_of_Service,Recruitment_Source,Performance_Score,Attendance_Percentage,Absence_Days,Leave_Days,Employment_Status,Termination_Date,Location
+1,Employee_001,Male,38,Marketing,Marketing Executive,48000,2021-09-30,5.0,Campus Recruitment,84.1,97.6,13,1,Active,,North
+2,Employee_002,Male,53,IT,Data Analyst,74000,2025-10-01,1.0,Indeed,56.1,85.5,14,18,Resigned,2025-08-03,East
+3,Employee_003,Male,48,Customer Support,Support Executive,35000,2022-10-25,4.0,LinkedIn,87.8,83.8,11,11,Active,,Central
+4,Employee_004,Female,55,HR,HR Executive,51000,2020-05-26,6.4,Naukri,96.8,88.6,19,11,Resigned,2025-12-10,Central
+5,Employee_005,Male,23,Sales,Business Development Executive,43000,2026-06-01,0.4,Company Website,58.4,86.1,8,14,Active,,East
+6,Employee_006,Female,34,Sales,Sales Manager,49000,2026-07-08,0.2,Campus Recruitment,66.5,98.4,20,5,Active,,Central
+7,Employee_007,Male,50,Marketing,Marketing Executive,43000,2023-04-04,3.5,LinkedIn,84.6,85.8,7,1,Active,,East
+8,Employee_008,Male,34,Finance,Financial Analyst,77000,2025-05-12,1.4,Company Website,92.7,87.5,20,14,Active,,South
+9,Employee_009,Male,56,HR,HR Executive,43000,2025-01-16,1.7,Indeed,93.6,89.0,16,15,Active,,North
+10,Employee_010,Male,30,Customer Support,Support Executive,46000,2026-01-14,0.7,Company Website,61.9,93.9,12,14,Resigned,2026-08-02,Central
+11,Employee_011,Male,28,HR,Recruiter,57000,2026-08-24,0.1,Company Website,88.0,88.0,5,14,Active,,North
+12,Employee_012,Female,53,Marketing,Marketing Manager,34000,2021-01-01,5.8,Naukri,76.8,83.9,16,6,Active,,South
+13,Employee_013,Male,41,HR,HR Executive,67000,2024-06-24,2.3,Indeed,92.8,96.6,1,7,Active,,Central
+14,Employee_014,Female,25,IT,Software Developer,58000,2024-12-21,1.8,Campus Recruitment,87.9,84.2,5,8,Active,,Central
+15,Employee_015,Female,34,Customer Support,Customer Success Executive,36000,2025-01-17,1.7,Company Website,85.7,89.0,16,14,Active,,North
+16,Employee_016,Male,42,Sales,Sales Executive,27000,2019-03-28,7.5,LinkedIn,80.3,86.0,2,1,Active,,South
+17,Employee_017,Female,25,IT,Software Developer,56000,2024-10-06,2.0,Company Website,64.2,84.3,7,15,Resigned,2025-02-23,West
+18,Employee_018,Male,48,Sales,Sales Executive,55000,2022-12-22,3.8,Naukri,73.2,90.2,20,3,Active,,North
+19,Employee_019,Female,27,Finance,Finance Manager,57000,2021-10-15,5.0,Indeed,61.0,85.2,2,14,Active,,Central
+20,Employee_020,Male,26,IT,Software Developer,69000,2021-08-26,5.1,Company Website,62.2,90.5,1,5,Active,,West
+21,Employee_021,Female,50,IT,QA Engineer,28000,2022-03-14,4.6,Indeed,97.8,91.7,6,9,Active,,South
+22,Employee_022,Female,24,IT,Software Developer,69000,2019-07-25,7.2,LinkedIn,80.1,90.8,16,2,Resigned,2026-04-28,South
+23,Employee_023,Male,46,IT,Software Developer,69000,2020-05-06,6.4,Company Website,79.9,82.7,21,18,Active,,Central
+24,Employee_024,Female,34,Operations,Operations Manager,38000,2026-07-06,0.3,Indeed,85.8,86.2,21,9,Active,,West
+25,Employee_025,Male,50,HR,HR Executive,77000,2025-12-19,0.8,Indeed,58.2,85.7,11,2,Active,,South
+26,Employee_026,Male,49,HR,HR Manager,44000,2025-02-03,1.7,Naukri,85.3,92.7,17,9,Resigned,2026-09-28,North
+27,Employee_027,Male,27,Sales,Sales Manager,46000,2025-03-16,1.6,Campus Recruitment,64.1,88.0,15,8,Active,,North
+28,Employee_028,Female,23,IT,QA Engineer,63000,2019-01-15,7.7,Indeed,69.3,84.3,23,14,Active,,Central
+29,Employee_029,Male,28,Marketing,Digital Marketing Analyst,60000,2019-11-05,6.9,Campus Recruitment,61.4,82.6,17,4,Active,,West
+30,Employee_030,Female,44,Sales,Sales Executive,37000,2019-06-13,7.3,Naukri,93.7,85.7,3,11,Active,,Central
+31,Employee_031,Male,36,Customer Support,Support Lead,50000,2020-10-27,5.9,Company Website,92.9,82.4,21,7,Active,,East
+32,Employee_032,Male,45,Sales,Business Development Executive,39000,2019-06-08,7.3,Employee Referral,91.9,85.9,9,7,Active,,South
+33,Employee_033,Female,42,IT,Data Analyst,75000,2022-02-15,4.6,Naukri,67.0,93.2,17,10,Active,,North
+34,Employee_034,Male,58,IT,System Administrator,31000,2021-12-23,4.8,Naukri,56.6,92.4,10,13,Active,,Central
+35,Employee_035,Female,57,Operations,Operations Executive,42000,2021-02-17,5.6,Indeed,55.1,98.2,11,13,Resigned,2024-11-19,North
+36,Employee_036,Female,28,Marketing,Digital Marketing Analyst,61000,2022-05-15,4.4,Company Website,76.8,93.7,22,9,Active,,Central
+37,Employee_037,Female,45,Sales,Sales Executive,41000,2026-08-06,0.2,Employee Referral,79.5,89.1,9,6,Active,,West
+38,Employee_038,Female,50,Customer Support,Customer Success Executive,31000,2023-12-15,2.8,Naukri,74.0,85.7,5,2,Active,,East
+39,Employee_039,Female,26,Operations,Process Analyst,39000,2021-08-20,5.1,Company Website,63.6,82.4,19,2,Active,,West
+40,Employee_040,Male,45,Finance,Finance Manager,44000,2024-07-17,2.2,LinkedIn,72.2,84.6,24,13,Active,,South
+41,Employee_041,Female,24,Sales,Business Development Executive,42000,2025-04-02,1.5,Campus Recruitment,74.6,96.0,10,14,Resigned,2025-03-13,Central
+42,Employee_042,Female,56,Customer Support,Customer Success Executive,51000,2024-01-01,2.8,Company Website,93.6,95.0,8,7,Active,,East
+43,Employee_043,Female,36,Customer Support,Customer Success Executive,24000,2022-01-29,4.7,Indeed,65.1,87.9,4,7,Resigned,2026-07-16,West
+44,Employee_044,Male,25,Marketing,Marketing Executive,51000,2023-08-27,3.1,LinkedIn,72.5,91.5,6,13,Active,,West
+45,Employee_045,Male,57,Customer Support,Customer Success Executive,18000,2023-04-08,3.5,Campus Recruitment,67.8,88.8,23,17,Active,,Central
+46,Employee_046,Male,38,Sales,Sales Manager,45000,2023-11-21,2.9,Naukri,75.9,88.8,5,14,Active,,South
+47,Employee_047,Male,46,Operations,Process Analyst,40000,2025-08-21,1.1,Indeed,82.6,84.4,1,8,Active,,West
+48,Employee_048,Female,41,HR,HR Executive,44000,2022-10-14,4.0,Employee Referral,87.7,88.6,2,15,Active,,North
+49,Employee_049,Male,43,Marketing,Marketing Manager,35000,2021-07-07,5.3,Indeed,83.0,95.2,0,4,Active,,South
+50,Employee_050,Male,57,Sales,Sales Manager,28000,2021-06-11,5.3,Indeed,75.0,86.5,19,3,Active,,South
+51,Employee_051,Male,40,HR,HR Executive,34000,2025-06-16,1.3,Campus Recruitment,72.1,94.5,22,7,Active,,North
+52,Employee_052,Male,57,Marketing,Digital Marketing Analyst,23000,2019-06-18,7.3,LinkedIn,69.9,89.5,16,10,Active,,North
+53,Employee_053,Female,27,Customer Support,Support Lead,46000,2023-11-11,2.9,Indeed,90.6,94.4,23,16,Active,,East
+54,Employee_054,Female,50,Operations,Process Analyst,39000,2023-11-20,2.9,Indeed,90.5,92.4,2,8,Active,,West
+55,Employee_055,Female,42,Sales,Sales Manager,33000,2019-04-28,7.4,Employee Referral,76.0,88.2,8,8,Active,,Central
+56,Employee_056,Male,36,IT,Data Analyst,55000,2023-07-23,3.2,Naukri,76.0,95.3,22,15,Active,,West
+57,Employee_057,Male,39,Customer Support,Support Executive,31000,2021-06-26,5.3,Employee Referral,83.6,88.5,13,17,Resigned,2025-04-11,East
+58,Employee_058,Female,38,HR,Recruiter,49000,2022-06-09,4.3,Employee Referral,65.8,84.1,3,17,Active,,South
+59,Employee_059,Female,38,Sales,Sales Executive,53000,2025-08-11,1.2,Employee Referral,67.2,83.8,7,11,Active,,South
+60,Employee_060,Male,38,HR,HR Executive,43000,2019-07-06,7.3,Naukri,96.9,91.7,24,15,Active,,North
+61,Employee_061,Female,51,Customer Support,Support Executive,31000,2024-05-14,2.4,LinkedIn,57.2,98.5,2,12,Active,,West
+62,Employee_062,Male,30,IT,Software Developer,57000,2025-04-24,1.5,LinkedIn,95.8,83.5,17,13,Active,,Central
+63,Employee_063,Male,54,Operations,Process Analyst,33000,2023-04-08,3.5,Campus Recruitment,92.0,99.3,19,1,Active,,Central
+64,Employee_064,Male,34,Marketing,Marketing Executive,49000,2021-12-19,4.8,Campus Recruitment,83.4,84.7,2,5,Active,,North
+65,Employee_065,Female,39,Finance,Financial Analyst,54000,2019-05-14,7.4,Employee Referral,85.2,89.9,20,18,Active,,South
+66,Employee_066,Male,30,Finance,Accountant,69000,2021-12-24,4.8,Employee Referral,90.5,83.2,19,18,Active,,East
+67,Employee_067,Female,40,Finance,Accountant,64000,2023-07-07,3.3,Company Website,76.2,83.4,23,10,Active,,Central
+68,Employee_068,Male,35,HR,HR Executive,40000,2026-07-24,0.2,Naukri,90.9,92.1,8,18,Active,,North
+69,Employee_069,Female,54,Customer Support,Support Executive,30000,2026-04-22,0.5,LinkedIn,97.9,89.6,15,11,Active,,West
+70,Employee_070,Male,31,HR,HR Manager,47000,2022-09-12,4.1,Campus Recruitment,72.7,90.7,1,14,Active,,North
+71,Employee_071,Female,28,HR,HR Manager,57000,2023-07-14,3.2,Company Website,55.0,97.2,1,6,Active,,Central
+72,Employee_072,Female,49,HR,Recruiter,31000,2019-07-31,7.2,Company Website,63.8,91.6,22,15,Active,,North
+73,Employee_073,Male,40,IT,Data Analyst,67000,2025-03-06,1.6,Company Website,64.7,96.7,3,4,Active,,West
+74,Employee_074,Female,47,Marketing,Digital Marketing Analyst,46000,2024-05-30,2.4,Company Website,97.2,86.3,6,16,Resigned,2026-05-11,South
+75,Employee_075,Female,47,Customer Support,Support Executive,44000,2022-10-24,4.0,Campus Recruitment,90.3,86.9,18,15,Active,,South
+76,Employee_076,Female,43,Finance,Finance Manager,46000,2022-09-23,4.0,Employee Referral,78.7,91.5,6,7,Active,,Central
+77,Employee_077,Female,23,Finance,Accountant,51000,2022-07-27,4.2,Company Website,89.9,88.8,1,4,Active,,Central
+78,Employee_078,Male,49,Operations,Operations Manager,28000,2020-02-13,6.6,Company Website,77.6,90.0,20,4,Active,,North
+79,Employee_079,Female,46,Finance,Financial Analyst,60000,2026-04-15,0.5,Naukri,84.0,91.3,22,15,Active,,Central
+80,Employee_080,Male,39,IT,Software Developer,60000,2021-07-20,5.2,Naukri,87.1,89.6,22,3,Active,,West
+81,Employee_081,Female,22,Sales,Business Development Executive,40000,2019-07-08,7.2,Campus Recruitment,70.4,89.5,13,18,Active,,South
+82,Employee_082,Male,45,Sales,Sales Executive,44000,2025-12-13,0.8,Indeed,84.4,90.7,14,8,Resigned,2026-05-13,West
+83,Employee_083,Male,50,HR,Recruiter,42000,2022-03-24,4.5,Naukri,74.0,88.0,13,8,Resigned,2025-12-04,West
+84,Employee_084,Male,45,Customer Support,Support Lead,31000,2024-06-02,2.3,Campus Recruitment,59.6,88.7,9,9,Active,,North
+85,Employee_085,Female,38,Customer Support,Customer Success Executive,24000,2019-02-03,7.7,Employee Referral,87.0,82.9,24,7,Resigned,2025-05-16,Central
+86,Employee_086,Male,33,Customer Support,Support Lead,31000,2025-12-18,0.8,Naukri,65.8,95.2,3,1,Active,,East
+87,Employee_087,Male,58,Customer Support,Support Lead,35000,2023-02-03,3.7,Indeed,67.7,95.1,4,17,Active,,East
+88,Employee_088,Female,31,Operations,Process Analyst,38000,2021-11-18,4.9,Naukri,94.3,98.5,10,3,Active,,West
+89,Employee_089,Male,46,IT,Data Analyst,40000,2025-04-01,1.5,Employee Referral,55.6,91.4,21,8,Active,,Central
+90,Employee_090,Female,27,Finance,Finance Manager,67000,2026-07-27,0.2,Employee Referral,65.1,82.4,19,7,Active,,North
+91,Employee_091,Female,47,Marketing,Digital Marketing Analyst,61000,2020-04-22,6.5,Indeed,68.1,90.6,17,4,Active,,West
+92,Employee_092,Female,58,Finance,Financial Analyst,73000,2020-09-24,6.0,Campus Recruitment,93.1,93.5,13,8,Active,,North
+93,Employee_093,Male,49,Marketing,Digital Marketing Analyst,64000,2023-12-27,2.8,Employee Referral,59.3,94.0,1,12,Resigned,2024-12-15,East
+94,Employee_094,Female,26,Sales,Sales Executive,36000,2026-06-07,0.3,LinkedIn,64.1,93.2,10,7,Active,,South
+95,Employee_095,Male,25,Customer Support,Customer Success Executive,37000,2025-03-20,1.5,Campus Recruitment,92.4,87.7,0,8,Active,,South
+96,Employee_096,Female,32,Sales,Business Development Executive,48000,2020-03-26,6.5,Employee Referral,83.4,82.5,7,18,Active,,East
+97,Employee_097,Female,24,IT,Data Analyst,54000,2020-06-03,6.3,Campus Recruitment,87.1,90.3,18,3,Active,,West
+98,Employee_098,Male,54,Operations,Operations Executive,31000,2022-05-20,4.4,Company Website,74.7,98.9,12,13,Active,,North
+99,Employee_099,Female,25,Finance,Finance Manager,49000,2019-11-27,6.9,Naukri,60.4,92.9,10,12,Resigned,2025-03-24,Central
+100,Employee_100,Female,53,Operations,Operations Manager,47000,2025-10-15,1.0,Naukri,73.5,95.9,20,17,Active,,South
+101,Employee_101,Male,47,Finance,Financial Analyst,57000,2022-10-20,4.0,Naukri,86.4,87.5,8,11,Active,,South
+102,Employee_102,Male,26,Marketing,Digital Marketing Analyst,36000,2019-12-16,6.8,Indeed,59.0,83.7,17,1,Active,,Central
+103,Employee_103,Female,28,Operations,Process Analyst,34000,2023-08-10,3.2,Employee Referral,87.3,97.2,19,9,Active,,East
+104,Employee_104,Male,51,IT,Data Analyst,69000,2021-07-07,5.3,LinkedIn,91.4,88.1,24,8,Resigned,2025-09-25,Central
+105,Employee_105,Male,38,Sales,Sales Manager,48000,2019-04-29,7.4,Indeed,68.3,87.9,4,18,Active,,West
+106,Employee_106,Male,26,IT,Data Analyst,72000,2024-12-12,1.8,Indeed,64.3,89.3,11,9,Active,,East
+107,Employee_107,Male,24,Customer Support,Customer Success Executive,42000,2020-09-29,6.0,Company Website,84.0,86.8,19,14,Active,,West
+108,Employee_108,Male,43,HR,HR Executive,56000,2023-10-27,2.9,Campus Recruitment,59.8,93.9,21,9,Resigned,2025-05-26,North
+109,Employee_109,Male,21,Sales,Sales Manager,39000,2021-04-17,5.5,LinkedIn,60.9,86.5,0,15,Active,,West
+110,Employee_110,Female,55,Sales,Sales Executive,48000,2021-07-31,5.2,LinkedIn,76.5,96.6,12,1,Active,,West
+111,Employee_111,Male,41,IT,QA Engineer,43000,2025-06-16,1.3,LinkedIn,82.5,87.1,10,5,Active,,Central
+112,Employee_112,Female,26,Finance,Finance Manager,57000,2023-11-24,2.9,Campus Recruitment,91.3,86.3,2,12,Resigned,2025-08-22,East
+113,Employee_113,Male,42,Marketing,Digital Marketing Analyst,58000,2020-11-19,5.9,Employee Referral,77.8,85.4,23,4,Active,,South
+114,Employee_114,Female,33,IT,Data Analyst,62000,2020-12-11,5.8,Indeed,80.9,95.3,24,15,Active,,West
+115,Employee_115,Female,57,Customer Support,Customer Success Executive,28000,2026-03-18,0.6,Company Website,92.2,93.0,2,15,Active,,West
+116,Employee_116,Female,58,Marketing,Digital Marketing Analyst,35000,2019-08-19,7.1,Company Website,70.1,83.3,1,1,Active,,East
+117,Employee_117,Male,26,Customer Support,Support Lead,29000,2025-11-24,0.9,Company Website,80.0,98.7,18,6,Active,,East
+118,Employee_118,Male,24,Operations,Operations Manager,37000,2024-01-20,2.7,Naukri,59.5,97.7,2,16,Active,,South
+119,Employee_119,Female,49,IT,Data Analyst,47000,2024-11-16,1.9,Employee Referral,71.0,87.0,21,1,Active,,East
+120,Employee_120,Male,56,IT,System Administrator,53000,2026-08-10,0.2,Indeed,71.6,86.4,10,2,Active,,Central
+121,Employee_121,Female,40,Marketing,Marketing Executive,42000,2026-05-11,0.4,Campus Recruitment,80.6,98.4,12,10,Active,,South
+122,Employee_122,Male,48,Marketing,Marketing Manager,36000,2024-09-13,2.1,Indeed,70.6,88.3,10,15,Active,,South
+123,Employee_123,Male,25,Sales,Sales Executive,44000,2022-04-26,4.4,Naukri,88.1,96.6,10,4,Resigned,2026-08-29,Central
+124,Employee_124,Male,32,Finance,Accountant,47000,2026-01-02,0.8,LinkedIn,89.8,84.9,13,11,Active,,South
+125,Employee_125,Female,49,Finance,Finance Manager,42000,2021-08-16,5.1,Employee Referral,89.8,90.2,21,18,Active,,West
+126,Employee_126,Female,53,Finance,Financial Analyst,49000,2024-11-30,1.9,Campus Recruitment,73.0,84.8,4,8,Active,,North
+127,Employee_127,Female,56,Marketing,Digital Marketing Analyst,43000,2020-02-25,6.6,Employee Referral,60.4,83.5,14,16,Active,,South
+128,Employee_128,Male,35,Customer Support,Support Lead,26000,2024-01-22,2.7,LinkedIn,93.0,98.3,12,16,Active,,East
+129,Employee_129,Male,44,Sales,Sales Manager,63000,2021-07-08,5.2,Indeed,91.1,93.4,1,9,Active,,West
+130,Employee_130,Female,49,Marketing,Marketing Executive,50000,2025-11-25,0.9,Indeed,55.2,83.4,4,17,Active,,Central
+131,Employee_131,Male,39,Operations,Operations Manager,42000,2021-08-31,5.1,LinkedIn,73.1,95.9,3,15,Active,,Central
+132,Employee_132,Male,30,Operations,Operations Executive,45000,2022-04-08,4.5,Campus Recruitment,73.5,92.8,13,5,Active,,North
+133,Employee_133,Male,54,Operations,Operations Manager,18000,2025-02-06,1.7,LinkedIn,78.8,88.8,20,12,Active,,East
+134,Employee_134,Male,43,HR,Recruiter,43000,2019-10-04,7.0,Campus Recruitment,69.8,94.8,23,10,Active,,South
+135,Employee_135,Female,32,IT,System Administrator,36000,2026-09-05,0.1,Naukri,82.2,96.2,24,14,Active,,North
+136,Employee_136,Male,33,HR,HR Executive,48000,2019-06-21,7.3,Campus Recruitment,68.6,87.4,15,8,Active,,North
+137,Employee_137,Male,39,Customer Support,Customer Success Executive,37000,2023-01-02,3.8,Company Website,83.2,86.8,12,14,Active,,West
+138,Employee_138,Female,52,HR,HR Executive,42000,2023-02-13,3.6,Naukri,94.7,91.1,13,2,Active,,West
+139,Employee_139,Female,41,Operations,Operations Executive,55000,2020-02-25,6.6,Indeed,68.2,92.5,22,14,Active,,East
+140,Employee_140,Female,48,Finance,Accountant,60000,2022-01-29,4.7,LinkedIn,82.5,95.9,21,12,Active,,East
+141,Employee_141,Male,22,Operations,Process Analyst,51000,2020-08-07,6.2,Naukri,73.8,84.2,11,11,Active,,West
+142,Employee_142,Male,49,Operations,Operations Executive,31000,2023-02-28,3.6,Campus Recruitment,71.0,95.4,11,12,Resigned,2026-05-19,East
+143,Employee_143,Male,28,Marketing,Digital Marketing Analyst,44000,2019-04-17,7.5,Employee Referral,71.6,91.8,22,14,Active,,South
+144,Employee_144,Female,33,Operations,Operations Manager,31000,2020-05-17,6.4,Naukri,60.8,83.3,14,2,Active,,East
+145,Employee_145,Male,56,Marketing,Digital Marketing Analyst,43000,2025-01-29,1.7,Employee Referral,61.8,94.4,16,7,Active,,North
+146,Employee_146,Male,52,Sales,Sales Executive,49000,2019-04-18,7.5,Campus Recruitment,70.5,92.0,4,2,Active,,North
+147,Employee_147,Female,54,HR,HR Manager,47000,2023-08-10,3.2,Company Website,58.2,99.0,14,16,Active,,East
+148,Employee_148,Male,29,Sales,Business Development Executive,24000,2023-11-08,2.9,Campus Recruitment,76.6,97.2,4,9,Active,,South
+149,Employee_149,Male,43,Sales,Sales Manager,56000,2024-10-26,1.9,Indeed,65.8,93.1,20,9,Resigned,2025-12-29,Central
+150,Employee_150,Male,58,Operations,Operations Executive,31000,2025-07-06,1.3,Campus Recruitment,61.6,93.5,1,0,Resigned,2025-10-26,North
+151,Employee_151,Male,57,IT,System Administrator,52000,2023-09-03,3.1,Company Website,93.2,91.5,7,12,Active,,East
+152,Employee_152,Male,31,Finance,Accountant,50000,2023-12-06,2.8,Campus Recruitment,72.9,90.1,4,10,Active,,East
+153,Employee_153,Female,29,Marketing,Digital Marketing Analyst,41000,2023-02-26,3.6,Indeed,65.4,84.1,4,3,Active,,North
+154,Employee_154,Female,36,HR,HR Manager,44000,2020-10-16,6.0,Indeed,90.0,98.3,24,5,Active,,West
+155,Employee_155,Female,40,Operations,Operations Manager,65000,2024-07-30,2.2,Campus Recruitment,76.7,98.9,11,1,Active,,North
+156,Employee_156,Female,39,HR,HR Manager,48000,2025-01-07,1.7,Employee Referral,55.4,83.9,23,11,Active,,West
+157,Employee_157,Female,24,HR,HR Executive,36000,2025-05-24,1.4,Campus Recruitment,67.4,88.8,8,3,Active,,South
+158,Employee_158,Female,42,IT,QA Engineer,50000,2025-04-03,1.5,Campus Recruitment,95.4,95.2,16,12,Active,,Central
+159,Employee_159,Male,29,IT,Software Developer,59000,2022-09-26,4.0,Employee Referral,61.4,97.6,19,10,Active,,South
+160,Employee_160,Female,58,Finance,Finance Manager,38000,2022-10-09,4.0,Naukri,76.8,90.9,18,9,Active,,West
+161,Employee_161,Female,42,Customer Support,Support Executive,42000,2026-07-22,0.2,Campus Recruitment,68.2,97.7,15,8,Active,,Central
+162,Employee_162,Male,58,Operations,Operations Executive,49000,2024-05-21,2.4,Indeed,62.3,93.0,21,7,Resigned,2025-09-12,North
+163,Employee_163,Male,33,Operations,Process Analyst,33000,2019-03-19,7.6,Company Website,72.8,85.6,23,1,Resigned,2025-01-18,South
+164,Employee_164,Female,51,Operations,Operations Executive,46000,2024-11-22,1.9,Campus Recruitment,71.2,98.7,10,17,Active,,East
+165,Employee_165,Female,51,Marketing,Marketing Manager,53000,2021-02-26,5.6,Employee Referral,67.8,98.5,22,6,Active,,West
+166,Employee_166,Female,56,HR,HR Manager,42000,2022-01-25,4.7,Company Website,67.4,92.0,11,4,Resigned,2025-09-13,East
+167,Employee_167,Male,43,IT,System Administrator,43000,2023-12-17,2.8,Campus Recruitment,64.2,96.5,22,8,Active,,South
+168,Employee_168,Male,24,IT,Data Analyst,38000,2026-07-06,0.3,LinkedIn,93.9,85.9,3,13,Active,,East
+169,Employee_169,Male,29,Marketing,Digital Marketing Analyst,73000,2019-01-22,7.7,Company Website,61.8,93.4,20,6,Active,,East
+170,Employee_170,Male,26,HR,HR Manager,38000,2026-04-25,0.5,Indeed,79.7,91.4,13,5,Active,,North
+171,Employee_171,Female,32,Customer Support,Support Lead,36000,2022-03-31,4.5,Employee Referral,79.4,83.9,14,17,Active,,Central
+172,Employee_172,Female,38,Finance,Accountant,50000,2021-02-28,5.6,Naukri,89.8,87.8,8,5,Active,,North
+173,Employee_173,Female,57,Marketing,Digital Marketing Analyst,46000,2026-07-25,0.2,Campus Recruitment,91.8,97.7,10,2,Active,,West
+174,Employee_174,Male,29,Marketing,Marketing Executive,39000,2024-05-09,2.4,Company Website,68.9,86.3,7,14,Active,,East
+175,Employee_175,Male,37,HR,HR Manager,40000,2026-05-01,0.4,Company Website,83.7,90.1,21,16,Active,,East
+176,Employee_176,Female,44,Marketing,Marketing Executive,51000,2025-11-22,0.9,Indeed,64.5,98.8,14,11,Active,,West
+177,Employee_177,Female,55,Marketing,Marketing Manager,53000,2026-06-13,0.3,Campus Recruitment,84.3,92.4,14,16,Active,,East
+178,Employee_178,Male,56,IT,Software Developer,36000,2024-09-01,2.1,Employee Referral,63.7,91.4,16,14,Active,,North
+179,Employee_179,Female,26,Marketing,Marketing Executive,42000,2024-09-21,2.0,Campus Recruitment,60.7,89.3,14,9,Resigned,2026-08-08,North
+180,Employee_180,Male,34,Finance,Financial Analyst,53000,2025-06-26,1.3,Campus Recruitment,58.1,89.4,1,2,Active,,West
+181,Employee_181,Female,32,IT,System Administrator,58000,2020-07-08,6.2,Company Website,82.8,89.4,12,12,Active,,North
+182,Employee_182,Male,43,Marketing,Marketing Manager,18000,2020-04-30,6.4,Naukri,62.7,91.4,7,0,Resigned,2026-05-29,North
+183,Employee_183,Female,55,HR,HR Manager,48000,2023-04-03,3.5,LinkedIn,69.9,86.8,21,13,Active,,Central
+184,Employee_184,Male,34,Customer Support,Support Executive,30000,2019-10-03,7.0,Naukri,59.3,82.6,1,7,Resigned,2024-11-17,North
+185,Employee_185,Male,55,Finance,Financial Analyst,52000,2021-06-08,5.3,Naukri,61.0,99.4,18,10,Active,,Central
+186,Employee_186,Female,36,Operations,Process Analyst,26000,2022-05-21,4.4,Company Website,92.7,99.2,9,8,Resigned,2026-02-22,North
+187,Employee_187,Male,48,Operations,Process Analyst,18000,2025-03-26,1.5,Naukri,95.5,93.7,13,13,Resigned,2025-11-14,South
+188,Employee_188,Male,55,HR,HR Manager,45000,2024-04-23,2.5,Company Website,65.4,85.9,1,17,Active,,West
+189,Employee_189,Male,45,Finance,Finance Manager,51000,2021-09-21,5.0,LinkedIn,58.4,89.9,17,6,Active,,North
+190,Employee_190,Male,25,HR,HR Manager,53000,2021-02-09,5.7,Company Website,89.6,92.3,6,10,Resigned,2026-02-26,East
+191,Employee_191,Male,28,IT,Data Analyst,71000,2024-05-15,2.4,Campus Recruitment,85.3,88.9,10,9,Active,,West
+192,Employee_192,Female,40,Finance,Finance Manager,42000,2021-12-07,4.8,LinkedIn,70.5,97.4,23,15,Active,,East
+193,Employee_193,Female,47,Sales,Sales Manager,35000,2019-07-07,7.3,Naukri,61.3,86.6,13,9,Resigned,2025-02-20,South
+194,Employee_194,Male,45,Sales,Sales Manager,39000,2025-05-22,1.4,Employee Referral,90.8,90.7,24,15,Active,,West
+195,Employee_195,Female,31,Finance,Accountant,49000,2020-07-27,6.2,Campus Recruitment,94.4,91.5,1,2,Active,,North
+196,Employee_196,Female,29,Customer Support,Support Executive,26000,2026-01-27,0.7,Indeed,65.0,94.4,16,14,Active,,East
+197,Employee_197,Female,22,IT,QA Engineer,42000,2019-01-28,7.7,LinkedIn,55.7,94.6,16,13,Resigned,2025-12-17,South
+198,Employee_198,Male,36,IT,Software Developer,52000,2021-02-25,5.6,Employee Referral,81.7,86.4,12,2,Active,,East
+199,Employee_199,Male,35,Finance,Financial Analyst,43000,2022-05-13,4.4,LinkedIn,83.1,97.0,12,12,Active,,West
+200,Employee_200,Male,21,Operations,Operations Manager,26000,2020-12-02,5.8,Campus Recruitment,58.6,96.8,3,16,Active,,North
+201,Employee_201,Female,38,Sales,Sales Executive,54000,2019-07-10,7.2,Indeed,67.1,91.5,10,0,Active,,South
+202,Employee_202,Female,25,Operations,Operations Executive,36000,2022-05-10,4.4,Naukri,62.0,86.2,17,10,Active,,West
+203,Employee_203,Male,26,Customer Support,Customer Success Executive,35000,2024-08-13,2.1,Employee Referral,59.2,86.1,19,12,Active,,East
+204,Employee_204,Female,52,IT,System Administrator,43000,2021-07-23,5.2,Indeed,70.3,98.5,21,18,Active,,West
+205,Employee_205,Male,25,IT,System Administrator,53000,2019-12-03,6.8,Employee Referral,88.7,84.7,11,3,Active,,North
+206,Employee_206,Female,44,IT,System Administrator,66000,2022-01-09,4.7,Company Website,59.4,83.5,17,17,Active,,Central
+207,Employee_207,Male,26,Finance,Accountant,37000,2022-12-20,3.8,Employee Referral,88.7,97.1,13,12,Active,,North
+208,Employee_208,Male,57,Marketing,Marketing Manager,41000,2024-11-04,1.9,Employee Referral,62.3,88.7,9,8,Active,,West
+209,Employee_209,Male,48,Sales,Sales Executive,32000,2022-02-04,4.7,Naukri,58.3,86.4,20,15,Active,,Central
+210,Employee_210,Female,27,Operations,Operations Executive,48000,2020-07-08,6.2,Campus Recruitment,68.1,98.6,12,10,Active,,West
+211,Employee_211,Male,40,HR,HR Manager,32000,2022-08-06,4.2,Employee Referral,75.6,85.1,9,15,Active,,Central
+212,Employee_212,Female,45,Customer Support,Support Executive,28000,2022-02-22,4.6,Campus Recruitment,90.1,88.9,6,18,Active,,Central
+213,Employee_213,Male,50,Sales,Business Development Executive,34000,2021-05-08,5.4,Naukri,84.8,96.3,15,4,Active,,East
+214,Employee_214,Male,48,Sales,Sales Manager,44000,2023-03-25,3.5,Campus Recruitment,58.2,99.3,12,17,Active,,Central
+215,Employee_215,Female,55,Customer Support,Customer Success Executive,37000,2019-05-31,7.4,LinkedIn,93.5,91.4,24,7,Active,,East
+216,Employee_216,Male,57,Sales,Business Development Executive,33000,2026-03-27,0.5,Company Website,84.1,89.0,3,0,Active,,North
+217,Employee_217,Male,49,HR,HR Executive,31000,2023-03-13,3.6,LinkedIn,80.3,90.8,15,3,Active,,East
+218,Employee_218,Male,30,Finance,Accountant,64000,2022-11-27,3.9,Campus Recruitment,68.4,90.0,15,11,Active,,West
+219,Employee_219,Female,41,IT,QA Engineer,48000,2019-10-03,7.0,Naukri,59.9,96.9,5,7,Active,,Central
+220,Employee_220,Male,42,Sales,Business Development Executive,58000,2025-04-12,1.5,Naukri,73.3,90.1,5,5,Active,,West
+221,Employee_221,Male,49,Finance,Accountant,51000,2025-08-22,1.1,Campus Recruitment,64.2,86.9,3,17,Active,,South
+222,Employee_222,Male,50,HR,HR Manager,45000,2020-04-11,6.5,Employee Referral,66.3,97.1,19,12,Resigned,2024-12-21,Central
+223,Employee_223,Male,43,Finance,Finance Manager,60000,2022-12-12,3.8,Campus Recruitment,90.0,94.4,18,2,Active,,South
+224,Employee_224,Male,40,HR,HR Executive,33000,2020-04-24,6.5,Company Website,62.9,94.1,19,4,Resigned,2025-09-04,Central
+225,Employee_225,Male,52,Finance,Financial Analyst,27000,2026-02-16,0.6,Company Website,95.0,85.0,9,4,Active,,South
+226,Employee_226,Male,43,HR,HR Manager,39000,2019-02-09,7.7,Campus Recruitment,75.8,85.4,16,15,Active,,West
+227,Employee_227,Female,49,Marketing,Digital Marketing Analyst,52000,2024-06-24,2.3,Employee Referral,89.2,85.9,7,17,Active,,East
+228,Employee_228,Female,56,Sales,Sales Manager,52000,2024-09-23,2.0,Campus Recruitment,59.9,84.0,24,1,Resigned,2025-09-26,West
+229,Employee_229,Female,27,Operations,Operations Executive,43000,2026-05-01,0.4,LinkedIn,98.0,89.9,14,3,Active,,South
+230,Employee_230,Female,48,Sales,Business Development Executive,34000,2020-11-10,5.9,LinkedIn,81.5,95.7,18,11,Active,,Central
+231,Employee_231,Male,41,HR,Recruiter,43000,2022-04-13,4.5,Indeed,91.9,99.2,24,13,Active,,North
+232,Employee_232,Male,29,HR,Recruiter,52000,2021-10-19,5.0,Naukri,61.3,87.6,12,15,Active,,South
+233,Employee_233,Female,47,Operations,Process Analyst,30000,2023-03-17,3.6,Naukri,92.8,83.6,11,14,Resigned,2025-12-26,West
+234,Employee_234,Male,26,HR,Recruiter,49000,2024-02-21,2.6,Campus Recruitment,82.3,94.2,12,6,Active,,West
+235,Employee_235,Female,38,Customer Support,Support Executive,39000,2022-08-15,4.1,Employee Referral,79.9,91.9,21,1,Active,,North
+236,Employee_236,Male,28,IT,QA Engineer,45000,2020-10-09,6.0,Indeed,74.0,82.0,22,4,Active,,East
+237,Employee_237,Male,44,Sales,Sales Manager,53000,2021-10-22,5.0,Naukri,82.9,82.9,22,7,Active,,West
+238,Employee_238,Male,21,Marketing,Marketing Executive,53000,2021-05-24,5.4,Campus Recruitment,75.5,84.3,21,14,Active,,North
+239,Employee_239,Male,48,IT,System Administrator,46000,2020-06-25,6.3,Employee Referral,58.8,96.1,11,9,Active,,South
+240,Employee_240,Male,25,Finance,Accountant,53000,2024-12-12,1.8,Company Website,79.2,92.7,11,6,Active,,South
+241,Employee_241,Female,34,Finance,Finance Manager,57000,2019-12-22,6.8,Company Website,60.3,94.8,10,4,Active,,South
+242,Employee_242,Male,36,HR,Recruiter,41000,2025-03-16,1.6,Naukri,80.8,94.6,0,9,Active,,South
+243,Employee_243,Male,46,Operations,Process Analyst,32000,2022-04-25,4.5,LinkedIn,89.1,86.2,7,15,Active,,Central
+244,Employee_244,Female,41,IT,Software Developer,38000,2020-06-24,6.3,Employee Referral,71.6,96.7,17,5,Active,,West
+245,Employee_245,Male,58,Customer Support,Support Executive,41000,2019-10-04,7.0,Campus Recruitment,94.7,98.6,9,16,Active,,West
+246,Employee_246,Female,26,Finance,Finance Manager,52000,2026-03-08,0.6,LinkedIn,78.1,92.8,9,2,Active,,Central
+247,Employee_247,Female,46,Sales,Sales Executive,30000,2025-07-30,1.2,Naukri,84.3,83.2,7,1,Active,,South
+248,Employee_248,Male,50,IT,QA Engineer,37000,2025-11-12,0.9,LinkedIn,81.2,87.4,0,4,Active,,North
+249,Employee_249,Female,54,Sales,Sales Manager,45000,2024-10-19,2.0,Naukri,62.2,84.2,3,0,Active,,East
+250,Employee_250,Female,54,Customer Support,Support Lead,23000,2019-09-19,7.0,Company Website,66.3,99.1,14,16,Active,,East
+251,Employee_251,Male,44,IT,QA Engineer,54000,2020-10-06,6.0,Naukri,79.7,94.6,16,0,Active,,North
+252,Employee_252,Male,23,Customer Support,Support Executive,39000,2024-04-16,2.5,LinkedIn,70.7,98.1,17,13,Active,,South
+253,Employee_253,Female,41,HR,HR Executive,50000,2022-01-16,4.7,Indeed,60.1,93.8,7,16,Active,,North
+254,Employee_254,Female,39,Finance,Accountant,38000,2022-06-26,4.3,Employee Referral,69.1,91.7,6,9,Active,,Central
+255,Employee_255,Male,50,Customer Support,Support Lead,28000,2023-02-17,3.6,Indeed,88.2,85.4,0,13,Resigned,2026-01-28,North
+256,Employee_256,Female,21,Sales,Business Development Executive,36000,2022-10-04,4.0,LinkedIn,55.1,93.5,6,16,Active,,South
+257,Employee_257,Male,30,Finance,Financial Analyst,73000,2022-02-20,4.6,Company Website,93.6,91.1,23,2,Active,,Central
+258,Employee_258,Female,25,IT,Data Analyst,70000,2025-08-21,1.1,Indeed,79.4,89.6,9,8,Active,,East
+259,Employee_259,Female,41,Customer Support,Support Lead,35000,2024-01-29,2.7,Indeed,63.7,95.6,3,5,Resigned,2026-06-17,West
+260,Employee_260,Female,28,Finance,Financial Analyst,56000,2025-01-04,1.8,Employee Referral,70.4,95.5,14,8,Active,,North
+261,Employee_261,Female,23,IT,Data Analyst,60000,2021-05-30,5.4,Company Website,58.9,86.3,16,1,Active,,East
+262,Employee_262,Male,46,HR,HR Executive,37000,2024-01-27,2.7,Company Website,78.9,91.6,3,4,Active,,North
+263,Employee_263,Male,29,IT,Software Developer,60000,2021-03-22,5.5,Employee Referral,82.1,93.3,2,0,Resigned,2025-02-13,North
+264,Employee_264,Female,29,Sales,Business Development Executive,34000,2020-01-12,6.7,LinkedIn,93.9,96.5,1,14,Active,,North
+265,Employee_265,Female,46,Sales,Business Development Executive,55000,2024-07-25,2.2,Employee Referral,62.4,85.8,8,14,Active,,South
+266,Employee_266,Female,52,IT,Data Analyst,58000,2023-08-15,3.1,Employee Referral,93.0,90.4,12,4,Active,,West
+267,Employee_267,Male,55,Sales,Business Development Executive,58000,2019-03-21,7.5,Employee Referral,70.4,91.5,18,16,Active,,East
+268,Employee_268,Male,22,Finance,Financial Analyst,50000,2022-07-30,4.2,LinkedIn,80.7,82.5,15,16,Active,,East
+269,Employee_269,Male,31,Customer Support,Customer Success Executive,36000,2020-02-15,6.6,Indeed,77.9,95.8,18,12,Active,,East
+270,Employee_270,Male,36,Customer Support,Support Executive,41000,2025-08-23,1.1,Campus Recruitment,68.7,94.9,0,11,Active,,Central
+271,Employee_271,Male,52,Operations,Operations Executive,39000,2025-01-29,1.7,LinkedIn,58.9,86.1,16,15,Active,,North
+272,Employee_272,Male,29,HR,Recruiter,55000,2022-10-27,3.9,LinkedIn,85.8,98.1,0,4,Active,,Central
+273,Employee_273,Male,54,Marketing,Marketing Executive,55000,2023-02-03,3.7,Employee Referral,95.5,88.9,9,10,Active,,South
+274,Employee_274,Female,52,Sales,Business Development Executive,39000,2026-04-13,0.5,Naukri,68.6,94.4,19,11,Active,,South
+275,Employee_275,Male,45,Marketing,Marketing Manager,45000,2022-06-10,4.3,Campus Recruitment,62.6,82.0,1,5,Resigned,2025-09-01,Central
+276,Employee_276,Male,57,HR,Recruiter,36000,2020-03-02,6.6,Indeed,95.3,84.5,11,10,Active,,South
+277,Employee_277,Female,49,Marketing,Marketing Executive,45000,2019-02-16,7.6,Naukri,57.9,86.5,0,1,Active,,West
+278,Employee_278,Female,31,Finance,Finance Manager,60000,2023-08-23,3.1,LinkedIn,76.2,88.6,15,18,Resigned,2025-09-17,South
+279,Employee_279,Male,23,Sales,Sales Manager,49000,2022-04-22,4.5,Indeed,59.5,88.0,23,2,Active,,Central
+280,Employee_280,Female,22,IT,System Administrator,56000,2023-11-02,2.9,Indeed,95.5,84.9,1,3,Active,,East
+281,Employee_281,Female,56,Sales,Sales Executive,41000,2025-01-21,1.7,Company Website,65.2,82.9,4,1,Resigned,2025-03-23,East
+282,Employee_282,Male,39,IT,QA Engineer,64000,2026-06-04,0.3,LinkedIn,81.9,90.4,6,5,Active,,East
+283,Employee_283,Male,40,IT,QA Engineer,29000,2023-06-17,3.3,Indeed,66.4,93.2,11,12,Active,,East
+284,Employee_284,Male,37,Sales,Sales Manager,45000,2023-12-07,2.8,Campus Recruitment,75.0,86.0,1,4,Active,,North
+285,Employee_285,Female,58,IT,System Administrator,33000,2021-07-20,5.2,Campus Recruitment,90.2,89.3,7,15,Resigned,2025-06-07,East
+286,Employee_286,Male,53,IT,QA Engineer,47000,2025-05-28,1.4,LinkedIn,93.7,96.0,24,14,Resigned,2026-05-09,South
+287,Employee_287,Male,29,Sales,Sales Executive,18000,2019-06-24,7.3,Campus Recruitment,73.7,99.5,8,10,Active,,North
+288,Employee_288,Female,56,IT,QA Engineer,71000,2022-08-28,4.1,Naukri,91.8,91.1,19,18,Active,,Central
+289,Employee_289,Male,47,Customer Support,Support Lead,42000,2020-09-04,6.1,Campus Recruitment,87.6,98.4,24,3,Active,,East
+290,Employee_290,Female,47,Customer Support,Customer Success Executive,44000,2021-12-17,4.8,LinkedIn,71.5,90.5,5,8,Resigned,2025-06-09,West
+291,Employee_291,Female,23,Sales,Business Development Executive,48000,2023-06-10,3.3,Employee Referral,65.2,95.1,0,10,Active,,East
+292,Employee_292,Female,27,HR,HR Manager,39000,2021-07-22,5.2,Employee Referral,60.8,99.0,8,13,Active,,Central
+293,Employee_293,Male,49,Marketing,Marketing Executive,54000,2021-05-15,5.4,LinkedIn,75.8,91.0,16,5,Active,,North
+294,Employee_294,Female,29,HR,Recruiter,39000,2024-11-17,1.9,Indeed,92.8,82.5,1,7,Active,,North
+295,Employee_295,Female,33,Finance,Accountant,43000,2022-01-27,4.7,Indeed,72.1,98.2,11,15,Active,,Central
+296,Employee_296,Female,58,Finance,Accountant,61000,2025-03-08,1.6,Naukri,70.0,84.9,22,2,Active,,East
+297,Employee_297,Male,31,IT,QA Engineer,56000,2025-06-01,1.3,Employee Referral,64.5,85.9,20,13,Active,,Central
+298,Employee_298,Female,29,IT,Software Developer,46000,2026-04-05,0.5,Employee Referral,62.4,96.0,19,9,Active,,East
+299,Employee_299,Female,50,Finance,Financial Analyst,53000,2021-10-29,4.9,LinkedIn,77.4,92.9,16,11,Resigned,2026-06-24,Central
+300,Employee_300,Female,40,Marketing,Marketing Manager,54000,2026-09-04,0.1,Naukri,59.6,83.1,10,8,Active,,East
