@@ -284,6 +284,10 @@ The Power BI dashboard provides an interactive view of workforce data through da
 
 ![Salary Analysis Dashboard](Images/Salary_Analysis_Dashboard.png)
 
+### Leave Analysis Dashboard
+
+![Leave Analysis Dashboard](Images/Leave_Analytics_Dashboard.png)
+
 ---
 
 # 🗄️ MySQL Database
@@ -403,6 +407,7 @@ HR-Workforce-Analytics/
 │   ├── Employee_Demographics_Analysis.xlsx
 │   ├── Employee_Salary_Analysis.xlsx
 │   ├── HR_Workforce_Analytics_Final_.xlsx
+|   ├── Leave_Analytics.xlsx
 │   ├── Performance_and_Department_wise_Analysis.xlsx
 │   └── Recruitment_Analysis_.xlsx
 │
@@ -410,6 +415,7 @@ HR-Workforce-Analytics/
 │   ├── Employee_Demographics_Analysis_Dashboard.png
 │   ├── Final_dashboard_excel.png
 │   ├── Final_dashboard_powerBI.png
+|   ├── Leave_Analytics_Dashboard.png
 │   ├── Performance_Analysis_Dashboard.png
 │   ├── Recruitment_Analysis_Dashboard.png
 │   └── Salary_Analysis_Dashboard.png
@@ -418,27 +424,15 @@ HR-Workforce-Analytics/
 │   └── HR_WORKFORCE_ANALYTICS_FINAL.pbix
 │
 ├── Project_Report/
-│   ├── HR_Workforce_Analytics_FINAL_Report_File_-1.pdf
-│   └── HR_Workforce_Analytics_FINAL_Report_File_.docx
+│   ├── HR_Workforce_Analytics_FINAL_Report_File.pdf
+|   ├── HR_Workforce_Analytics_FINAL_Report_File.docx
+│   └── HR_Workforce_Analytics_Presentation.pptx
 │
 ├── Python_Analysis/
 │   └── HR Workforce Analysis Project.ipynb
 │
 └── README.md
 ```
-
----
-
-# 👥 Team & Responsibilities
-
-| Member | Role | Module(s) |
-|---|---|---|
-| Priyanshi Gangwar | Project Leader & Performance Analyst | Performance Analysis + Department-wise Dashboard |
-| Tripti Gangwar | Employee Data Analyst | Employee Demographics |
-| Gayatri Singh | Recruitment Analyst | Recruitment Analytics |
-| Anju | Compensation & Leave Analyst | Salary Analytics + Leave Analytics |
-| Mohd. Aazam | Attendance & Workforce Analyst | Attendance Analytics |
-| Ashish Gangwar | Workforce & Attrition Analyst | Attrition Analysis |
 
 ---
 
